@@ -20,7 +20,7 @@ This project simulates a hospital performance analysis for a fictional healthcar
 
 - [Dataset (~55k hospital admissions)](https://github.com/andrezaumbelino/healthcare-business-analytics/tree/main/data)
 - [Power BI Dashboard (.pbix)](https://github.com/andrezaumbelino/healthcare-business-analytics/blob/main/Hospital%20Performance%20Insights.pbix)
-- [Technical Documentation (data modeling, DAX, methodology)](https://github.com/andrezaumbelino/healthcare-business-analytics/blob/main/analysis/Documentation%20(for%20Data%20Analysts)%20EN-PT.pdf=
+- [Technical Documentation (data modeling, DAX, methodology)](https://github.com/andrezaumbelino/healthcare-business-analytics/blob/main/analysis/Documentation%20(for%20Data%20Analysts)%20EN-PT.pdf)
 - [Executive Analysis (business insights and recommendations)](https://github.com/andrezaumbelino/healthcare-business-analytics/blob/main/analysis/Hospital%20Performance%20Analysis%20(for%20Stakeholders)%20EN-PT.pdf)
 
 ---
