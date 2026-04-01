@@ -1,0 +1,4 @@
+Admission Type,admission_type_id
+Emergency,1
+Elective,2
+Urgent,3
